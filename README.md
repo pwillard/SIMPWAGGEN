@@ -1,2 +1,13 @@
 # SIMPWAGGEN
 Simple Wagon File Generator for ORTS
+
+This script will create a starting point for generic Open Rails Wagons (eg; USA Freight Cars) and will allow car definitions to be based on 'config.ini" settings.
+The script wioll create the WAGON file from scratch and will be named according to the contents of the config.  By default, it will create a wagon file for an unloaded car, but will create the loaded version when the passed the "--loaded" command line argument.
+
+It will also allow you to use alternate config files by specifying '--config-path' followed by a full file path to the alternate config file.
+
+This python was created mainly because I often create typo-graphical errors when I create these files from scratch.
+
+Yes, I know its a silly piece of code... but I use it... so maybe somebody else will.
+
+
