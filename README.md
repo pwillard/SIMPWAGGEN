@@ -6,8 +6,10 @@ The script will create the WAGON file from scratch and will be named according t
 
 It will also allow you to use alternate config files by specifying '--config-path' followed by a full file path to the alternate config file.
 
-This python was created mainly because I often create typo-graphical errors when I create these files from scratch.
+This python 3 script was created mainly because I often create typo-graphical errors when I create these files from scratch.
 
-Yes, I know its a silly piece of code... but I use it... so maybe somebody else will.
+Yes, you do need to install Python 3 to use the script.
+
+And, I know its a silly piece of code... but I use it... so maybe somebody else will.
 
 
