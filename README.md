@@ -12,4 +12,6 @@ Yes, you do need to install Python 3 to use the script.
 
 And, I know its a silly piece of code... but I use it... so maybe somebody else will.
 
+It's not finished... but works well enough to use at this point.  Handling Freight_Anim and Lights are a future goal and do not currently function.
+
 
